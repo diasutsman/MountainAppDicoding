@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mountain App</string>
+    <string name="txt_gambar_gunung">Gambar Gunung</string>
+    <string name="txt_profile">About</string>
+</resources>
